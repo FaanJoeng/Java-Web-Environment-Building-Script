@@ -16,5 +16,5 @@ First of all, you must add your packages to be installed to a directory, `PACKAG
 3. **Redis** [redis-4.0.8.tar.gz](http://download.redis.io/releases/redis-4.0.8.tar.gz)
 
 ## TODO
-1. Mysql|Oracle DB  
+1. Mysql | Oracle DB  
 2. Security related issues
