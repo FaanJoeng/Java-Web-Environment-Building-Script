@@ -11,10 +11,12 @@ First of all, you must add your packages to be installed to a directory, `PACKAG
 4. `. PATH_TO_SCRIPT/java_web_env.sh PACKAGES_DIRECTORY`
 
 ## Pakcage download links
-1. **Jdk** [jdk-8u161-linux-x64.tar.gz](http://download.oracle.com/otn-pub/java/jdk/8u161-b12/2f38c3b165be4555a1fa6e98c45e0808/jdk-8u161-linux-x64.tar.gz)
+1. **JDK** [jdk-8u161-linux-x64.tar.gz](http://download.oracle.com/otn-pub/java/jdk/8u161-b12/2f38c3b165be4555a1fa6e98c45e0808/jdk-8u161-linux-x64.tar.gz)
 2. **Tomcat** [apache-tomcat-8.5.27.tar.gz](http://mirrors.hust.edu.cn/apache/tomcat/tomcat-8/v8.5.27/bin/apache-tomcat-8.5.27.tar.gz)
 3. **Redis** [redis-4.0.8.tar.gz](http://download.redis.io/releases/redis-4.0.8.tar.gz)
+4. **Jenkins** [jenkins-2.89.4-1.1.noarch.rpm](https://pkg.jenkins.io/redhat-stable/jenkins-2.89.4-1.1.noarch.rpm)
+5. **Oracle** [Download Page](http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html)
 
 ## TODO
-1. Mysql | Oracle DB | Jenkins  
+1. Mysql | Oracle DB(bug fix) 
 2. Security related issues
